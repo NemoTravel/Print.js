@@ -1,6 +1,9 @@
+# WARNING
+This is modified version of Print.js, Nemo.Travel [fork](https://github.com/NemoTravel/Print.js).
+
 # Print.js
 
-[![Build Status](https://travis-ci.org/crabbly/Print.js.svg?branch=master)](https://travis-ci.org/crabbly/Print.js) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE) [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
+[![Build Status](https://travis-ci.org/crabbly/Print.js.svg?branch=master)](https://travis-ci.org/crabbly/Print.js) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat)](LICENSE) [![JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 A tiny javascript library to help printing from the web.
 
@@ -22,12 +25,12 @@ npm install print.js --save
 You can find documentation at [printjs.crabbly.com](http://printjs.crabbly.com/#documentation).
 
 
-## Contributing to Print.js
+##Contributing to Print.js
 
 Contributions to Print.js are welcome and encouraged.
 
 
-##### Using issues
+#####Using issues
 
 The [issue tracker](https://github.com/crabbly/Print.js/issues) is the preferred channel for reporting bugs, requesting new features and submitting pull requests.
 
@@ -36,7 +39,7 @@ Keep in mind that we would like to keep this a lightweight library.
 Please do not use the issues channel for support requests. For help using Print.js, please ask questions on Stack Overflow and use the tag `print.js`.
 
 
-##### Reporting bugs
+#####Reporting bugs
 
 Well structured, detailed bug reports are hugely valuable for the project.
 
@@ -46,7 +49,7 @@ Well structured, detailed bug reports are hugely valuable for the project.
 Please provide any additional details associated with the bug.
 
 
-##### Pull requests
+#####Pull requests
 
 Clear, concise pull requests are excellent at continuing the project's community driven growth.
 
@@ -57,6 +60,6 @@ Clear, concise pull requests are excellent at continuing the project's community
  - Please make your commits in logical sections with clear commit messages
 
 
-## License
+##License
 
 Print.js is available under the [MIT license](https://github.com/crabbly/Print.js/blob/master/LICENSE).
